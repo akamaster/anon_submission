@@ -22,9 +22,6 @@ At present, we support the following compression schemes:
 ## Examples of use
 If you want to compress your own models, you can use the following examples as a guide:
 - Compressing the [LeNet300 neural network](examples/lenet300/README.md).
-
-## Low-rank AlexNet models
-We have [made available](https://github.com/UCMerced-ML/LC-model-compression/tree/master/examples/low_rank_alexnets) our low-rank AlexNet models.
   
 ## Installation  
 We recommend installing the dependencies through [conda](https://conda.io) into a new environment:  
